@@ -1,0 +1,8 @@
+[package]
+name = "free-can-view"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+termion = "2.0.1"
+pcan-basic = "1.0.2"
